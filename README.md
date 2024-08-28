@@ -2,7 +2,8 @@
 
 ## Overview
 
-This is a Python application that allows you to download posts from an Instagram account. It supports both private and public accounts and uses the `instaloader` library for downloading posts. The GUI is built using the `tkinter` library.
+Download pictures (or videos) along with their captions and other metadata from Instagram.
+It supports both private and public accounts and uses the `instaloader` library for downloading posts. The GUI is built using the `tkinter` library.
 
 ## Features
 
